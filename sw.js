@@ -1,5 +1,5 @@
 // Enscra Codex — offline support. Bump CACHE when you want phones to drop old files.
-const CACHE = 'enscra-codex-v1';
+const CACHE = 'enscra-codex-v2';
 const CORE = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png',
   './icon-maskable-192.png', './icon-maskable-512.png',
   './art/sera.jpg', './art/isolde.jpg', './art/nora.jpg', './art/mave.jpg', './art/edric2.jpg', './art/sorene2.jpg'];

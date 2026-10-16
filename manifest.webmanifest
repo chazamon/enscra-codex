@@ -2,7 +2,7 @@
   "name": "Enscra Codex",
   "short_name": "Codex",
   "description": "The world codex of Enscra",
-  "id": "./",
+  "id": "/enscra-codex/",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
